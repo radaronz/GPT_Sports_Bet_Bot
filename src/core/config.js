@@ -1,12 +1,12 @@
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
  apiKey: "AIzaSyB55OOWTWROQumWL84P79txhwD2HspvSZs",
-  authDomain: "gpt-wager.firebaseapp.com",
-  projectId: "gpt-wager",
-  storageBucket: "gpt-wager.appspot.com",
-  messagingSenderId: "380002747460",
-  appId: "1:380002747460:web:7f3191826cc2c84eaf6811",
-  measurementId: "G-YG2GY8D0FB"
+  authDomain: "parlay2--parlaygpt.us-central1.hosted.app",
+  projectId: "parlaygpt",
+  storageBucket: "parlaygpt.appspot.com",
+  messagingSenderId: "293415253245",
+  appId: "1:293415253245:web:a6003eb7dd8e48a4ffba94",
+  measurementId: "G-KS047DJD0W"
 }
 
 // Replace with your own IDs! follow the guides here:
