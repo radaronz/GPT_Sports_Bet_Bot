@@ -1,6 +1,6 @@
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
- apiKey: "AIzaSyB55OOWTWROQumWL84P79txhwD2HspvSZs",
+ apiKey: "AIzaSyA7-kW1Zs_lnfxmgKf3ReWw46qPQ3cdA8Q",
   authDomain: "parlay2--parlaygpt.us-central1.hosted.app",
   projectId: "parlaygpt",
   storageBucket: "parlaygpt.appspot.com",
